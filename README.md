@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="Homescreen.png" alt="Booknest home screen" width="280" />
-</p>
+![Booknest home screen](Homescreen.png)
 
 # 📚 Booknest
 
