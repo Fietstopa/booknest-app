@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="Homescreen.png" alt="Booknest home screen" width="280" />
+</p>
+
 # 📚 Booknest
 
 > Community book-box app for Android — find little free libraries around you, share books with neighbours, and keep track of what you've read.
