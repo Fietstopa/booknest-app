@@ -1,0 +1,140 @@
+<resources>
+    <string name="app_name">Booknest</string>
+    <string name="google_maps_key">AIzaSyCMDqAbBRmUCn6JnEwW7EW8fRUEs1oJJqU</string>
+    <string name="map_title">Mapa</string>
+    <string name="history_title">Historie</string>
+    <string name="profile_title">Profil</string>
+    <string name="settings_title">Nastavení</string>
+    <string name="books_list_title">Seznam knih</string>
+    <string name="book_detail_title">Detail knihy</string>
+    <string name="scan_title">Sken</string>
+    <string name="add_library_title">Přidat knihovnu</string>
+
+    <string name="login_title">Přihlášení</string>
+    <string name="register_title">Vytvořit účet</string>
+    <string name="nickname_label">Přezdívka</string>
+    <string name="email_label">Email</string>
+    <string name="password_label">Heslo</string>
+    <string name="confirm_password_label">Potvrdit heslo</string>
+    <string name="login_button">Přihlásit</string>
+    <string name="register_button">Registrovat</string>
+    <string name="continue_with_google">Pokračovat s Google</string>
+    <string name="create_account">Vytvořit účet</string>
+    <string name="back_to_login">Zpět na přihlášení</string>
+
+    <string name="intro_title_prefix">Pojďme </string>
+    <string name="intro_title_highlight">číst</string>
+    <string name="intro_title_suffix">něco\nvečer, připraven\nna procházku?</string>
+    <string name="intro_lets_go">Jdeme  →</string>
+    <string name="intro_chip_mark_libraries">Označ knihovny!</string>
+    <string name="intro_chip_help_community">Pomoz komunitě</string>
+
+    <string name="libraries_close_to_you">Nejbližší knihovny</string>
+    <string name="books_label">Knihy:</string>
+    <string name="add_book">Přidat knihu</string>
+    <string name="see_books">Zobrazit knihy</string>
+    <string name="comments_title">Recenze:</string>
+    <string name="no_comments">Zatím žádné komentáře.</string>
+    <string name="write_comment">Napiš komentář</string>
+    <string name="see_more">Zobrazit více</string>
+    <string name="see_less">Zobrazit méně</string>
+    <string name="no_nearby_libraries">Žádné knihovny v okolí.</string>
+    <string name="unknown_city">Neznámé město</string>
+    <string name="unknown_address">Neznámá adresa</string>
+
+    <string name="add_book_title">Přidat knihu</string>
+    <string name="scan_isbn">Skenovat ISBN kamerou</string>
+    <string name="search_by_name">Hledat podle názvu</string>
+    <string name="close">Zavřít</string>
+    <string name="search_by_title_or_author">Hledat podle názvu nebo autora</string>
+    <string name="search">Hledat</string>
+
+    <string name="pick_image">Vybrat obrázek</string>
+    <string name="library_name_label">Název knihobudky</string>
+    <string name="library_size_label">Rozměr knihoboxu</string>
+    <string name="save">Uložit</string>
+
+    <string name="grant_permission">Povolit oprávnění</string>
+    <string name="camera_permission_required">Je potřeba povolit kameru.</string>
+
+    <string name="saved_books_title">Uložené knihy:</string>
+    <string name="added_libraries_title">Přidané knihovny:</string>
+    <string name="no_saved_books">Zatím žádné uložené knihy.</string>
+    <string name="no_added_libraries">Zatím žádné přidané knihovny.</string>
+    <string name="books_added_label">Přidané knihy</string>
+    <string name="libraries_added_label">Přidané knihovny</string>
+    <string name="no_cover">Bez obálky</string>
+    <string name="no_image">Bez obrázku</string>
+    <string name="saved_books_list_title">Uložené knihy</string>
+    <string name="added_books_title">Přidané knihy:</string>
+    <string name="added_books_list_title">Přidané knihy</string>
+    <string name="added_libraries_list_title">Přidané knihovny</string>
+    <string name="see_more_tile">Zobrazit více</string>
+    <string name="no_added_books">Zatím žádné přidané knihy.</string>
+    <string name="no_books_yet">Zatím žádné knihy.</string>
+    <string name="unknown_title">Neznámý název</string>
+    <string name="unknown_author">Neznámý</string>
+    <string name="unknown_library">Neznámá knihovna</string>
+    <string name="unknown_date">Neznámé</string>
+    <string name="default_library_name">Knihobot</string>
+    <string name="not_available_short">N/A</string>
+
+    <string name="history_tab_visited">Navštívené</string>
+    <string name="history_tab_books_added">Přidané knihy</string>
+    <string name="no_visited_libraries">Zatím žádné navštívené knihovny.</string>
+    <string name="no_books_added">Zatím žádné přidané knihy.</string>
+
+    <string name="settings_language">Jazyk</string>
+    <string name="settings_language_title">Jazyk</string>
+    <string name="change_profile_title">Změnit profil</string>
+    <string name="language_english">Anglicky</string>
+    <string name="language_czech">Česky</string>
+    <string name="change_photo">Změnit fotku</string>
+
+    <string name="profile_guest_name">Host</string>
+
+    <string name="cd_logo">Logo</string>
+    <string name="cd_app_logo">Logo aplikace</string>
+    <string name="cd_back">Zpět</string>
+    <string name="cd_settings">Nastavení</string>
+    <string name="cd_add_library">Přidat knihovnu</string>
+    <string name="cd_my_location">Moje poloha</string>
+    <string name="cd_close">Zavřít</string>
+    <string name="cd_like">Líbí se mi</string>
+    <string name="cd_save">Uložit</string>
+    <string name="cd_send_comment">Odeslat komentář</string>
+    <string name="cd_save_book">Uložit knihu</string>
+    <string name="cd_selected_location">Vybrané místo</string>
+    <string name="cd_selected_image">Vybraný obrázek</string>
+    <string name="cd_profile_photo">Profilová fotka</string>
+
+    <string name="error_email_password_required">Email a heslo jsou povinné.</string>
+    <string name="error_login_failed">Přihlášení se nezdařilo.</string>
+    <string name="error_register_fields_required">Přezdívka, email a heslo jsou povinné.</string>
+    <string name="error_passwords_do_not_match">Hesla se neshodují.</string>
+    <string name="error_registration_failed">Registrace se nezdařila.</string>
+    <string name="error_google_sign_in_failed">Přihlášení přes Google se nezdařilo.</string>
+    <string name="error_google_sign_in_not_configured">Přihlášení přes Google není nastavené.</string>
+    <string name="error_failed_to_load_history">Nepodařilo se načíst historii.</string>
+    <string name="error_search_query_empty">Zadejte hledaný text.</string>
+    <string name="error_search_failed">Hledání se nezdařilo.</string>
+    <string name="error_connection">Chyba připojení.</string>
+    <string name="error_unexpected">Neočekávaná chyba.</string>
+    <string name="error_failed_to_save_book">Nepodařilo se uložit knihu.</string>
+    <string name="error_write_comment_first">Nejprve napište komentář.</string>
+    <string name="error_send_comment_failed">Komentář se nepodařilo odeslat.</string>
+    <string name="error_sign_in_to_like">Přihlaste se pro like.</string>
+    <string name="error_update_like_failed">Nepodařilo se aktualizovat like.</string>
+    <string name="error_book_not_found">Kniha nenalezena.</string>
+    <string name="error_failed_to_save_library">Nepodařilo se uložit knihovnu.</string>
+    <string name="error_failed_to_upload_image">Nepodařilo se nahrát obrázek.</string>
+    <string name="error_name_required">Název je povinný.</string>
+    <string name="error_image_required">Obrázek je povinný.</string>
+    <string name="error_failed_to_load_book">Nepodařilo se načíst knihu.</string>
+    <string name="error_failed_to_load_saved_books">Nepodařilo se načíst uložené knihy.</string>
+    <string name="error_failed_to_load_added_books">Nepodařilo se načíst přidané knihy.</string>
+    <string name="error_failed_to_load_added_libraries">Nepodařilo se načíst přidané knihovny.</string>
+    <string name="error_profile_not_signed_in">Nejste přihlášen.</string>
+    <string name="error_profile_name_required">Jméno je povinné.</string>
+    <string name="error_profile_update_failed">Nepodařilo se upravit profil.</string>
+</resources>
